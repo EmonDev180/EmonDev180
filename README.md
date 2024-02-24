@@ -12,7 +12,7 @@ Skills: Node JS / REACT / JS / HTML / CSS
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Emon Dev180)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Emon Dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Emon Dev)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emon Dev180)](https://github.com/anuraghazra/github-readme-stats)
 
