@@ -20,12 +20,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 👯 I’m looking to collaborate on Githab 
 - 💬 Ask me about Web Development 
 
+  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmonDev180)  
+![](https://github-readme-stats.vercel.app/api?username=EmonDev180&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EmonDev180&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmonDev180&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EmonDev180)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmonDev180)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmonDev180&show_icons=true)  
 
