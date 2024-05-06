@@ -14,7 +14,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
-
+<br></br>
 
 
 - 🔭 I’m currently working on this page. 
