@@ -11,12 +11,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <br></br>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-
-
 <br></br>
-
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Githab 
