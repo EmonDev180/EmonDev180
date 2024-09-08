@@ -1,6 +1,6 @@
-                                              ### Hi there 👋, I'm Emon Dev
-                                                #### MERN Stack Developer
-Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past 18 month, I have been honing my skills in Mern Stack web development, specializing in React.js for front-end development.
+### Hi there 👋, I'm Emon Dev
+#### MERN Stack Developer
+ I am Emon dev , a dedicated and enthusiastic React front-end developer with knowledge of full-stack development.
 
 
 <img align="left" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
