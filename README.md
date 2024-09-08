@@ -17,10 +17,7 @@
 
 
 <br></br>
-- 🔭 I’m currently working web development. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Githab 
-- 💬 Ask me about Web Development
+
 
 
 <h1>Numbers</h1>
